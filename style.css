@@ -1,0 +1,17 @@
+#body {
+  background-color: #bfd9bf;
+}
+
+#titre {
+  text-align: center;
+  color: #396039;
+  border-style: solid;
+  border-color: #396039;
+}
+
+.style {
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #396039;
+  padding: 5px;
+}
